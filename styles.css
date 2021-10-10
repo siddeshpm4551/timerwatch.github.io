@@ -1,0 +1,9 @@
+.btn{
+    border-radius: 50px;
+}
+body{
+    background-color: #81b5c7;
+}
+.bg-dark{
+    background: linear-gradient(45deg,darkgreen,lightblue,darkblue);
+}
